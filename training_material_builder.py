@@ -1,5 +1,3 @@
-# pip install llama-index-program-evaporate
-
 from llama_index.core import TreeIndex, load_index_from_storage
 from llama_index.core.storage import StorageContext 
 from llama_index.core.extractors import KeywordExtractor

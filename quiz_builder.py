@@ -1,5 +1,3 @@
-# prepares quizz questions based on the uploaded files
-
 from llama_index.core import load_index_from_storage, StorageContext
 from llama_index.program.evaporate.df import DFRowsProgram
 from llama_index.program.openai import OpenAIPydanticProgram

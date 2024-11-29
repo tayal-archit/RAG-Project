@@ -1,6 +1,3 @@
-### TODO: 
-# - persist audio files in Slide
-
 import json
 
 class SlideDeck:
